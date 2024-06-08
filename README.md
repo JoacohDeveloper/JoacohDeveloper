@@ -1,13 +1,15 @@
 ## Hi there 👋
 
 I'm Joacoh 🙋‍♂️
+<ul>
 <br>
-📚 I like to learn technologies
+<li>📚 I like to learn technologies</li>
 <br>
-📖 I'm currently studying web development.
+<li>📖 I'm currently studying web development.</li>
 <br>
-💼 I have experience with software development working on mobile and web applications
+<li>💼 I have experience with software development working on mobile and web applications</li>
 <br>
-🤸‍♂️ I love sports
+<li>🤸‍♂️ I love sports</li>
+</ul>
 
 
